@@ -1,0 +1,52 @@
+
+body{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-color: rgb(116, 238, 79);
+}
+
+
+.rectangle1 {
+    
+    background-position: auto;
+    font-size: 18px;
+    width: 2000000 px;
+    height: 500px;
+    background-color: rgba(235, 49, 49, 0.842);
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+.rectangle2 {
+    
+    background-position: center;
+    font-size: 18px;
+    width: 1000 px;
+    height: 600px;
+    background-color: rgba(252, 177, 134, 0.842);
+}
+
+
+.pingouin2{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+    opacity: 0.5;
+}
+
+.violet{
+    color: rgb(148, 10, 148);
+}
+
+.blanc{
+    color: white;
+}
+
+p{
+    font-size: 0.8em;
+    margin: 0 0 8px 0;
+}

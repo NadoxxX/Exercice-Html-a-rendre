@@ -1,0 +1,56 @@
+body {
+    
+    background-color: grey;
+    color :white;
+    position: center;
+    
+}
+
+
+.rectangle1{
+    background-color: rgba(0, 110, 255, 0.534);
+    border : 10px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.rectangle2{
+    background-color: rgba(28, 185, 13, 0.534);
+    border : 10px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.rectangle3{
+    background-color: rgba(188, 31, 236, 0.534);
+    border : 10px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.pingouin1{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color:rgba(25, 255, 255, 0.534)
+}
+
+.pingouin2{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color:rgba(25, 255, 44, 0.534)
+}
+
+.pingouin3{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color:rgba(190, 25, 255, 0.534)
+}

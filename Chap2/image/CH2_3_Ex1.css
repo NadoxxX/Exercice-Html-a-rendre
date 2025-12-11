@@ -1,0 +1,48 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll, fixed;        /* feuilles défilent, pingouin fixe */
+    background-position: top center;  /* feuilles en haut-gauche, pingouin en haut-centre */
+    background-size: auto, 200px;                /* redimensionne le pingouin */
+}
+
+
+body {
+    background-image: url("feuilles.png");
+    background-repeat: repeat;
+    background-attachment: scroll, fixed;        /* feuilles défilent, pingouin fixe */
+    background-position: top left, top center;  /* feuilles en haut-gauche, pingouin en haut-centre */
+    background-size: auto, 220px;                /* redimensionne le pingouin */
+}
+
+.titre-violet {
+    color: violet;
+    margin: 0 0 8px 0;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin: 0 0 8px 0;
+}
+
+.intro em {
+    font-style: italic;
+}
+
+
+.contenu {
+    max-width: 900px;
+}
+
+footer { margin-top: 20px; }
+footer ul { padding-left: 20px; margin:0; }
+footer a { color: #0645ad; text-decoration: underline; }
+
